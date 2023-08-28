@@ -26,7 +26,9 @@ def set_custom_settings(self):
 ```
 
 结合以下两个项目修改而来：
+
 https://github.com/aarontbarratt/resolution-changer
+
 https://github.com/imniko/SetDPI
 
 # 使用方法
